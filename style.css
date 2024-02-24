@@ -14,7 +14,7 @@ body{
     background-image: linear-gradient(rgb(204, 196, 201), rgb(119, 84, 106));
     color: whitesmoke;
     font-size: 18px;
-    font-family: Playfair Display,serif;
+    font-family: "Lato", sans-serif;
 }
 h1{
     font-weight: 800;
